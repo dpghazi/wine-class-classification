@@ -10,4 +10,4 @@ Implemented logistic regression algorithm to classify quality red wine.
 * Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 
 ## Featured Notebook
-* [Wine Class Classification](https://dpghazi.github.io/projects/wine-classification-ml.html)
+* [Wine Class Classification](https://dpghazi-berkeley-ds.s3.amazonaws.com/wine-classification-ml.html)
